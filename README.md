@@ -13,21 +13,17 @@ Este repositório de código contém os códigos de vários projetos e programas
 
 ### 2.1. Diagrama de Caso de Uso (Use Case Diagram) ###
 
-```image-file
-./doc/UseCaseDiagram*.jpg
-```
+* n/a - veja Guia para Configuração
 
 
 ### 2.2. Diagrama de Implantação (Deploy Diagram) ###
 
-```image-file
-./doc/DeployDiagram*.jpg
-```
+* n/a - veja Guia para Configuração
 
 
 ### 2.3. Diagrama Modelo Banco de Dados (Database Data Model) ###
 
-* n/a
+* n/a - veja Guia para Configuração
 
 ## 3. Projeto ##
 
@@ -35,26 +31,37 @@ Este repositório de código contém os códigos de vários projetos e programas
 
 * Hardware: Arduino Duemilenove
 * Software: Arduino Software (IDE)
+* Componentes:
+  * leds
+  * jumpers
+  * resistores 220 Ohms
 
 
 ### 3.2. Guia para Desenvolvimento ###
 
-* Todos os códigos fontes dos programas (sketchs) encontram-se abaixo do diretório ./src
+* Todos os códigos fontes dos programas (sketchs) encontram-se em pastas abaixo do diretório ./src
 
 ```
 + eval-arduino-duemilenove
   + src
-    + <sketch-1>
-    + <sketch-2>
-    + <sketch-n>
+    + blink2leds
+      - blink2leds.ino
+    + blink2ledspushbutton
+      - blink2ledspushbutton.ino
+
+         :
+
+    + sketch-n
+      - sketch-n.ino
 ```
 
 
 ### 3.3. Guia para Configuração ###
 
-* blink2leds
+#### blink2leds
 ![DeployDiagram](https://github.com/josemarsilva/eval-arduino-duemilenove/blob/master/doc/blink2leds.png) 
-* blink2ledspushbutton
+
+#### blink2ledspushbutton
 ![DeployDiagram](https://github.com/josemarsilva/eval-arduino-duemilenove/blob/master/doc/blink2ledspushbutton.png) 
 
 
