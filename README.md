@@ -16,7 +16,6 @@ Este repositório de código contém os códigos de vários projetos e programas
 ```image-file
 ./doc/UseCaseDiagram*.jpg
 ```
-![UseCaseDiagram](https://github.com/josemarsilva/eval-jenkins/blob/master/doc/images/UseCaseDiagram-01.png) 
 
 
 ### 2.2. Diagrama de Implantação (Deploy Diagram) ###
@@ -24,7 +23,6 @@ Este repositório de código contém os códigos de vários projetos e programas
 ```image-file
 ./doc/DeployDiagram*.jpg
 ```
-![DeployDiagram](https://github.com/josemarsilva/eval-jenkins/blob/master/doc/images/DeployDiagram-01.png) 
 
 
 ### 2.3. Diagrama Modelo Banco de Dados (Database Data Model) ###
@@ -54,7 +52,10 @@ Este repositório de código contém os códigos de vários projetos e programas
 
 ### 3.3. Guia para Configuração ###
 
-#### 3.3.1. Blink ####
+* blink2leds
+![DeployDiagram](https://github.com/josemarsilva/eval-arduino-duemilenove/blob/master/doc/blink2leds.png) 
+* blink2ledspushbutton
+![DeployDiagram](https://github.com/josemarsilva/eval-arduino-duemilenove/blob/master/doc/blink2ledspushbutton.png) 
 
 
 ### 3.4. Guia para Teste ###
