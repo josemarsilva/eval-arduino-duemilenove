@@ -15,6 +15,6 @@ void loop() {
   estadoBotao = digitalRead(7);
 
   digitalWrite(10, estadoBotao);
-  digitalWrite( 9, estadoBotao);
+  digitalWrite( 9, !estadoBotao);
 
 }

@@ -13,17 +13,17 @@ Este repositório de código contém os códigos de vários projetos e programas
 
 ### 2.1. Diagrama de Caso de Uso (Use Case Diagram) ###
 
-* n/a - veja Guia para Configuração
+* veja Guia para Configuração
 
 
 ### 2.2. Diagrama de Implantação (Deploy Diagram) ###
 
-* n/a - veja Guia para Configuração
+* veja Guia para Configuração
 
 
 ### 2.3. Diagrama Modelo Banco de Dados (Database Data Model) ###
 
-* n/a - veja Guia para Configuração
+* n/a
 
 ## 3. Projeto ##
 
